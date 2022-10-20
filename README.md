@@ -6,6 +6,9 @@
 * The Store version must be 22110.1402.6.0 or higher. Go to Store Library to update.
 * The PC's Region must be set to the US (Settings->Time&Language_>Language&Region)
 * The Amazon account you plan to use must be US-based.
-* Your PC must be in Windows Insider Program Beta Channel.
+
+AppStore Link: http://aka.ms/AmazonAppstore
+
+MS docs on topic: https://learn.microsoft.com/en-us/windows/android/wsa/
 
 

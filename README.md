@@ -5,7 +5,7 @@
 * The device must have at least 8GB of RAM and SSD as a Storage device. For WSA, a Hard drive is not supported.
 * The Store version must be 22110.1402.6.0 or higher. Go to Store Library to update.
 * The PC's Region must be set to the US (Settings->Time&Language_>Language&Region)
-* The Amazon account you plan to use must be US-based.
+* The Amazon account.
 
 AppStore Link: http://aka.ms/AmazonAppstore
 
